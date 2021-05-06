@@ -1,2 +1,2 @@
 git is awesom!
-new line
+new line cinema
